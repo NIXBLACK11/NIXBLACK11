@@ -1,6 +1,6 @@
 Hi there, I'm Siddharth Singh Rana👋
 
-I am a first year Btech student at Graphic Era ,Dehradun. Apart from that I am a ethical hacker ,and love learning new languages.
+I am a second year Btech student at Graphic Era Hill University,Dehradun. Apart from that I am a ethical hacker ,and love learning new languages.
 
 Interests:
 
@@ -21,9 +21,13 @@ I’m currently learning:
     Web app hacking
     Website building
     DSA and Alogorithms
+    Deep Learning models of Image Recognition
+    NLP technologies
+    
 How to reach me:
 
-    twitter https://twitter.com/NIXBLACK_
+    twitter  https://twitter.com/NIXBLACK_
+    linkedin https://www.linkedin.com/in/siddharthsinghrana11/
     
 Recent Update:
 
