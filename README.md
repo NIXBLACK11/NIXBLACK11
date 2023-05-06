@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Code Chat (A chat app enabled with voice and video call to message and code).**
 
-- 👯 I’m looking to collaborate on **Anything related to wed development and image recognition.**
+- 👯 I’m looking to collaborate on **Anything related to web development and deep learning.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NIXBLACK11](https://github.com/NIXBLACK11)
 
