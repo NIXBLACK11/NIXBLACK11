@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddharth Singh Rana</h1>
-<h3 align="center">I am a second year Btech student at Graphic Era Hill University,Dehradun. Apart from that I am a ethical hacker ,and love learning new languages.</h3>
+<h3 align="center">I am a second year Btech student at Graphic Era Hill University,Dehradun.<br> Apart from that I am a ethical hacker ,and love learning new languages.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nixblack11&label=Profile%20views&color=0e75b6&style=flat" alt="nixblack11" /> </p>
 
