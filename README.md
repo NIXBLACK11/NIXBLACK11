@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NIXBLACK11](https://github.com/NIXBLACK11)
 
-- 📫 How to reach me [linkedin](https://www.linkedin.com/in/siddharthsinghrana11/?locale=es_ES)
+- 📫 This is my personal portfolio [Siddharth's Portfolio](https://siddharth-dev-portfolio.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
