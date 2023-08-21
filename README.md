@@ -24,3 +24,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nixblack11&" alt="nixblack11" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NIXBLACK11&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NIXBLACK11)](https://github.com/anuraghazra/github-readme-stats)
