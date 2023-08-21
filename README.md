@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Siddharth Singh Rana</h1>
-<h3 align="center">I am a second year Btech student at Graphic Era Hill University,Dehradun.<br> Apart from that I am a Freelancer ,and love learning new languages.<br>Interested in cyber security.</h3>
+<h3 align="center">I am a second-year Btech student at Graphic Era Hill University, Dehradun.<br> Apart from that I am a Freelancer, and love learning new languages.<br>Interested in cyber security.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nixblack11&label=Profile%20views&color=0e75b6&style=flat" alt="nixblack11" /> </p>
 
-- 🔭 I’m currently working on **Code Chat (A chat app enabled with voice and video call to message and code).**
+- 🔭 I’m currently working on **Code Chat (A chat app enabled with voice and video calls to message and code).**
 
 - 👯 I’m looking to collaborate on **Anything related to web development and deep learning.**
 
