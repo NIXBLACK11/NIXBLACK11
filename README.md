@@ -1,4 +1,4 @@
-![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](./messageif(1).gif)
+![Intro](https://github.com/NIXBLACK11/NIXBLACK11/blob/main/messagif(1).gif)
 
 <h1 align="center">Hi 👋, I'm Siddharth Singh Rana</h1>
 <h3 align="center">I am a second-year Btech student at Graphic Era Hill University, Dehradun.<br> Apart from that I am a Freelancer, and I love learning new languages.<br>Interested in cyber security.</h3>
