@@ -1,7 +1,8 @@
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github.com/NIXBLACK11/NIXBLACK11/blob/main/messagif(1).gif" alt="Intro" width="300"/>
-  <img src="https://github.com/NIXBLACK11/NIXBLACK11/blob/main/clipart1185030.png" alt="Photo" width="200"/>
+<div style="width: 100%; text-align: center;">
+  <img src="https://github.com/NIXBLACK11/NIXBLACK11/blob/main/messagif(1).gif" alt="Intro" style="width: 100%;" />
+  <img src="https://github.com/NIXBLACK11/NIXBLACK11/blob/main/clipart1185030.png" alt="Photo" style="width: 100%;" />
 </div>
+
 
 
 <h1 align="center">Hi 👋, I'm Siddharth Singh Rana</h1>
