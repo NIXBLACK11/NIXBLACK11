@@ -1,7 +1,8 @@
-<div style="width: 100%; text-align: center;">
-  <img src="https://github.com/NIXBLACK11/NIXBLACK11/blob/main/messagif(1).gif" alt="Intro" style="width: 100%;" />
-  <img src="https://github.com/NIXBLACK11/NIXBLACK11/blob/main/clipart1185030.png" alt="Photo" style="width: 100%;" />
+<div style="display: flex; justify-content: center; align-items: center;" >
+  <img src="https://github.com/NIXBLACK11/NIXBLACK11/blob/main/messagif(1).gif" alt="Intro" width=55% height="400px"/>
+  <img src="https://github.com/NIXBLACK11/NIXBLACK11/blob/main/clipart1185030.png" alt="Photo" width=35% height="400px"/>
 </div>
+
 
 
 
