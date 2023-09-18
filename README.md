@@ -1,5 +1,8 @@
-![Intro](https://github.com/NIXBLACK11/NIXBLACK11/blob/main/messagif(1).gif)
-![Photo](https://github.com/NIXBLACK11/NIXBLACK11/blob/main/clipart1185030.png)
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github.com/NIXBLACK11/NIXBLACK11/blob/main/messagif(1).gif" alt="Intro" width="300"/>
+  <img src="https://github.com/NIXBLACK11/NIXBLACK11/blob/main/clipart1185030.png" alt="Photo" width="200"/>
+</div>
+
 
 <h1 align="center">Hi 👋, I'm Siddharth Singh Rana</h1>
 <h3 align="center">I am a second-year Btech student at Graphic Era Hill University, Dehradun.<br> Apart from that I am a Freelancer, and I love learning new languages.<br>Interested in cyber security.</h3>
