@@ -20,12 +20,16 @@
 - 📫 This is my personal portfolio [Siddharth's Portfolio](https://siddharth-dev-portfolio.netlify.app/)
 
 <h3 align="left">Some of my PR's I made during my time at Major League Hacking</h3>
-  - [Parity with perl normalize.](https://github.com/hplt-project/sacremoses/pull/146)
-  - []()
-  - []()
-  - []()
-  - []()
-  - []()
+
+- 🚀 [Sentiment analysis laser](https://github.com/facebookresearch/LASER/pull/274)
+
+- 📚 [Parity with perl normalize](https://github.com/hplt-project/sacremoses/pull/146)
+  
+- 📦 [Update language_list.py](https://github.com/facebookresearch/LASER/pull/269)
+
+- 🛠️ [Adding Language Validation Test](https://github.com/facebookresearch/LASER/pull/257)
+
+- 📈 [An error initializing English pipeline](https://github.com/facebookresearch/LASER/issues/259)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
