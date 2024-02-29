@@ -20,14 +20,12 @@
 - 📫 This is my personal portfolio [Siddharth's Portfolio](https://siddharth-dev-portfolio.netlify.app/)
 
 <h3 align="left">Some of my PR's I made during my time at Major League Hacking</h3>
-<p align="left">
   - [Parity with perl normalize.](https://github.com/hplt-project/sacremoses/pull/146)
   - []()
   - []()
   - []()
   - []()
   - []()
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
