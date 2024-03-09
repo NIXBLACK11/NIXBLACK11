@@ -31,6 +31,35 @@
 
 - 📈 [An error initializing English pipeline](https://github.com/facebookresearch/LASER/issues/259)
 
+<h3 align="left">Projects:</h3>
+<h2 align="left">Web development</h2>
+
+- 💡 [Personal Portfolio](https://siddharth-dev-portfolio.netlify.app/)
+  
+- 📦 [MERN Stack-based Chat Application](https://github.com/NIXBLACK11/chatApp)
+  
+- 🚀 [Chrome Extension for Text Summarization using BERT](https://github.com/NIXBLACK11/summarizationExtension)
+  
+- 📖 [Hashtag Finder - API based Instagram Hashtag Finder](https://instagram-hashtag-search.netlify.app/)
+  
+
+<h2 align="left">Machine Learning</h2>
+
+- 📊 [ARDUINO robot]
+
+- 📌 [Research paper on IOT Malware detection](https://github.com/NIXBLACK11/Malware_analysis_using_image_recognition)
+  
+
+<h2 align="left">Desktop app</h2>
+
+- ❓ [DMBS based Student Management Desktop Application](https://github.com/NIXBLACK11/DESKTOP_APP)
+
+<h2 align="left">Chatbots</h2>
+
+- 🎉 [Telegram based ChatBot for bank users](https://github.com/NIXBLACK11/telegramOrganizationChatBot)
+  
+- 📖 [NLP(Natural Language Processing) Enabled Chatbot named NIMBLE](https://github.com/NIXBLACK11/ChatBot-NIMBLE-)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/siddharthsinghrana11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddharthsinghrana11" height="30" width="40" /></a>
