@@ -35,7 +35,9 @@
 <h2 align="left">Web development</h2>
 
 - 💡 [Personal Portfolio](https://siddharth-dev-portfolio.netlify.app/)
-  
+
+- 🛠️ [GoLang based Link Tree](https://github.com/NIXBLACK11/GoLinkTree)
+
 - 📦 [MERN Stack-based Chat Application](https://github.com/NIXBLACK11/chatApp)
   
 - 🚀 [Chrome Extension for Text Summarization using BERT](https://github.com/NIXBLACK11/summarizationExtension)
