@@ -1,17 +1,18 @@
+<!--
 <div style="display: flex; justify-content: center; align-items: center;" >
   <img src="https://github.com/NIXBLACK11/NIXBLACK11/blob/main/messagif(1).gif" alt="Intro" width=55% height="400px"/>
   <img src="https://github.com/NIXBLACK11/NIXBLACK11/blob/main/clipart1185030.png" alt="Photo" width=35% height="400px"/>
 </div>
-
+-->
 
 
 
 <h1 align="center">Hi 👋, I'm Siddharth Singh Rana</h1>
 <h3 align="center">I am a third-year Btech student at Graphic Era Hill University, Dehradun.<br> Apart from that I am a Freelancer, and I love learning new languages.<br>Interested in cyber security.</h3>
-
+<h2>My resume</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nixblack11&label=Profile%20views&color=0e75b6&style=flat" alt="nixblack11" /> </p>
 
-- 🔭 I’m currently working on **Code Chat (A chat app enabled with voice and video calls to message and code).**
+- 🔭 I’m currently working on **[Feedback Loop](https://github.com/NIXBLACK11/The-Feedback-Loop)(A web app to analyse videos).**
 
 - 👯 I’m looking to collaborate on **Anything related to web development and deep learning.**
 
