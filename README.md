@@ -8,10 +8,10 @@
 
 
 <h1 align="center">Hi 👋, I'm Siddharth Singh Rana</h1>
-<h3 align="center">I am a third-year Btech student at Graphic Era Hill University, Dehradun.<br> Apart from that I am a Freelancer, and I love learning new languages.<br>Interested in cyber security.</h3>
-<h2>My resume</h2>
+<h3 align="center">I am a third-year Btech student at Graphic Era Hill University, Dehradun.<br> Apart from that I am a Freelancer, and I love learning new languages.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nixblack11&label=Profile%20views&color=0e75b6&style=flat" alt="nixblack11" /> </p>
 
+- Take a look at my [resume](https://github.com/NIXBLACK11/NIXBLACK11/blob/main/SiddharthResume.pdf)
 - 🔭 I’m currently working on **[Feedback Loop](https://github.com/NIXBLACK11/The-Feedback-Loop)(A web app to analyse videos).**
 
 - 👯 I’m looking to collaborate on **Anything related to web development and deep learning.**
