@@ -20,7 +20,7 @@
 
 - 📫 This is my personal portfolio [Siddharth's Portfolio](https://siddharth-dev-portfolio.netlify.app/)
 
-<h3 align="left">Some of my PR's I made during my time at Major League Hacking</h3>
+<h3 align="left">Some of the PRs I made during my time at Major League Hacking</h3>
 
 - 🚀 [Sentiment analysis laser](https://github.com/facebookresearch/LASER/pull/274)
 
