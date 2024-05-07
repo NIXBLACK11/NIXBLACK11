@@ -52,6 +52,8 @@
 
 <h2 align="left">Machine Learning</h2>
 
+- 🛠️ [Tutorial for LASER encoders](https://github.com/facebookresearch/LASER/tree/main/tasks/SentimentAnalysis)
+
 - 📊 [ARDUINO robot]
 
 - 📌 [Research paper on IOT Malware detection](https://github.com/NIXBLACK11/Malware_analysis_using_image_recognition)
