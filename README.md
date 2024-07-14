@@ -36,6 +36,8 @@
 
 - 🚀 [Chrome Extension for Text Summarization using BERT](https://github.com/NIXBLACK11/summarizationExtension)
 
+- 🛠️ [Joblinker](https://github.com/NIXBLACK11/GeminiChallenge)
+
 - 📦 [The Feedback Loop](https://github.com/NIXBLACK11/The-Feedback-Loop)
 
 <h2 align="left">Web development</h2>
