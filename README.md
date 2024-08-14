@@ -10,6 +10,7 @@
 <h1 align="center">Hi 👋, I'm Siddharth Singh Rana</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nixblack11&label=Profile%20views&color=0e75b6&style=flat" alt="nixblack11" /> </p>
 
+- Get to know what I am [currently exploring](https://canary-skate-0f1.notion.site/e865e017332a4331b5e5bb6bf2961c99?v=f702d982517b41d6a24df10067bac140&pvs=74)
 - Take a look at my [resume](https://github.com/NIXBLACK11/NIXBLACK11/blob/main/SiddharthResume2.pdf)
 - 🔭 I’m currently working on **[Feedback Loop](https://github.com/NIXBLACK11/The-Feedback-Loop)(A web app to analyse videos).**
 
