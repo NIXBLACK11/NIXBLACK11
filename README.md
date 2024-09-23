@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NIXBLACK11](https://github.com/NIXBLACK11)
 
-- 📫 This is my personal portfolio [Siddharth's Portfolio](https://siddharth-dev-portfolio.netlify.app/)
+- 📫 This is my personal portfolio [Siddharth's Portfolio](https://nixblack.site/)
 
 <h3 align="left">Some of the PRs I made during my time at Major League Hacking</h3>
 
