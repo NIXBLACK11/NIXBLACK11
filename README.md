@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **Anything related to web development and machine learning.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/NIXBLACK11](https://github.com/NIXBLACK11)
+- 👨‍💻 All of my projects are available at [https://github.com/NIXBLACK11](https://github.com/NIXBLACK11/NIXBLACK11/blob/main/projects.md)
 
 - 📫 This is my personal portfolio [Siddharth's Portfolio](https://nixblack.site/)
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
