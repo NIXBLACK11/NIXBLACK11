@@ -1,5 +1,17 @@
 
 <h3 align="left">Projects:</h3>
+
+<h3 align="left">Some of the PRs I made during my time at Major League Hacking</h3>
+- 🚀 [Sentiment analysis laser](https://github.com/facebookresearch/LASER/pull/274)
+
+- 📚 [Parity with perl normalize](https://github.com/hplt-project/sacremoses/pull/146)
+  
+- 📦 [Update language_list.py](https://github.com/facebookresearch/LASER/pull/269)
+
+- 🛠️ [Adding Language Validation Test](https://github.com/facebookresearch/LASER/pull/257)
+
+- 📈 [An error initializing English pipeline](https://github.com/facebookresearch/LASER/issues/259)
+
 <h2 align="left">Web development + Machine Learning</h2>
 
 - 🚀 [Chrome Extension for Text Summarization using BERT](https://github.com/NIXBLACK11/summarizationExtension)
