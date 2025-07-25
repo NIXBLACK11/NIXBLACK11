@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Siddharth Rana</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nixblack11&label=Profile%20views&color=0e75b6&style=flat" alt="nixblack11" /> </p>
 
+- 🛠️ Engineer [weRate](https://werate.io)
+
 - 🚀 Building [NIXARCADE](https://nixarcade.fun/)
 
 - 🛠️ Portfolio [nixblack.site](https://nixblack.site)
