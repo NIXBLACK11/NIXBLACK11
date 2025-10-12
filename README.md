@@ -3,8 +3,6 @@
 
 - 🛠️ Engineer [weRate](https://werate.io)
 
-- 🚀 Building [NIXARCADE](https://nixarcade.fun/)
-
 - 🛠️ Portfolio [nixblack.site](https://nixblack.site)
 
 - 👨‍💻 [Projects](https://github.com/NIXBLACK11/NIXBLACK11/blob/main/projects.md)
