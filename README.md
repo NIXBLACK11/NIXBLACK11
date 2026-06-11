@@ -5,8 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<!-- <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=NIXBLACK11&show_icons=true" alt="Intro" width="45%" height="200px"/>
-    <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=nixblack11" alt="Another Image" width="45%" height="200px"/> -->
-</div>
-
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nixblack11" alt="Another Image" width="45%" height="200px"/>
+</div> -->
