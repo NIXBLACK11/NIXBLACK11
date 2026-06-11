@@ -3,7 +3,7 @@
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3> -->
 
 <!-- <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=NIXBLACK11&show_icons=true" alt="Intro" width="45%" height="200px"/>
