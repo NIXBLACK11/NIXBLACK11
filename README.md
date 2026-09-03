@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Siddharth Rana</h1>
+<h1 align="center">Hi, I'm Siddharth Rana</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nixblack11&label=Profile%20views&color=0e75b6&style=flat" alt="nixblack11" /> </p>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
